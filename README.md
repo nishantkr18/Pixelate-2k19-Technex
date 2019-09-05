@@ -10,10 +10,10 @@ Check out the youtube video here:
 [![Watch the video](Images/Demo.png)](https://www.youtube.com/watch?v=dD-m3eNNoEc)
 
 This is a sample of the feed available from the overhead camera.
-![Sample](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/imageFromFeed.png)
+![Sample](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/Images/imageFromFeed.png)
 
 Here is a screenshot of the laptop when the code ran on it:
-![screenShot](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/ScreenShot.jpg)
+![screenShot](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/Images/ScreenShot.jpg)
 
 This is the robot we used in the event:
-![robot](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/robot_used.jpg)
+![robot](https://github.com/nishantkr18/Pixelate-2k19-Technex/blob/master/Images/robot_used.jpg)
