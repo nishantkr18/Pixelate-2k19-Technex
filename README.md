@@ -15,7 +15,7 @@ Pixelate is an event under **TECHNEX**, the annual Techo-Management fest of IIT 
  
 - We used OpenCV for shape detection and colour detection and then used it to get to the nearest shape as given out by the die roll.
 - Then an optimal graph/path was plotted to get the optimal trajectory, connecting the centroids of all the shapes along the way to the destination shape.
-- Once the path was recieved, we used PID (proportional–integral–derivative controller) to make our robot to follow the line conecting all this dots. Individual PID parameters were used to make the robot go straight and as well take sharp 90 degree turns.
+- Once the path was received, we used PID (proportional–integral–derivative controller) to make our robot follow the line connecting all these dots. Individual PID parameters were used to make the robot go straight and as well take sharp 90 degree turns.
 
 Check out the youtube video here:
 [![Watch the video](Images/Demo.png)](https://www.youtube.com/watch?v=dD-m3eNNoEc)
